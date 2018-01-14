@@ -44,7 +44,7 @@ namespace HtmlTransformer
                             previewSrc = WB_gif_box.Element("img").GetAttributeValue("src", "/");
                             // If there are more than one GIF image, only the currently playing video (of the image) has the code in HTML.
                             var WB_video = SelectChildNodeByClass(node, "WB_gif_video_box", "WB_h5video_v2")?.Element("video");
-                            originalSrc = WB_video == null ? "/" : WB_video.GetAttributeValue("src", "");
+                            originalSrc = WB_video == null ? "/" : "https:" + WB_video.GetAttributeValue("src", "");    // access to http is not permitted
                         }
                         picsList.Add(new KeyValuePair<string, string>(previewSrc, originalSrc));
                     }
