@@ -83,7 +83,7 @@ namespace HtmlTransformer
                     int pos = href.IndexOf('?');
                     if (pos != -1)
                         href = href.Substring(0, pos);
-                    if (href.StartsWith('/'))
+                    if (!href.StartsWith("//"))
                         href = baseUrl + href;
                 }
             }
