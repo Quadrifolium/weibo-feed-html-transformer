@@ -42,8 +42,9 @@ namespace HtmlTransformer
                         else
                         {
                             previewSrc = WB_gif_box.Element("img").GetAttributeValue("src", "/");
-                            var WB_video = SelectChildNodeByClass(node, "WB_gif_video_box", "WB_h5video_v2").Element("video");
-                            originalSrc = WB_video.GetAttributeValue("src", "");
+                            // If there are more than one GIF image, only the currently playing video (of the image) has the code in HTML.
+                            var WB_video = SelectChildNodeByClass(node, "WB_gif_video_box", "WB_h5video_v2")?.Element("video");
+                            originalSrc = WB_video == null ? "/" : WB_video.GetAttributeValue("src", "");
                         }
                         picsList.Add(new KeyValuePair<string, string>(previewSrc, originalSrc));
                     }
