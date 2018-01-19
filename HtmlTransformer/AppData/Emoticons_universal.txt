@@ -17,6 +17,7 @@ ee8c90	:balloon:
 ee8c92	:tada:
 ee8d85	:apple:
 ee8d8b	:birthday:
+ee9085	:wink:
 ee9099	:eyes:
 ee9188	:santa:
 ee9493	:cn:
