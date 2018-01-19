@@ -27,7 +27,7 @@ namespace HtmlTransformer
 
         public string Alternate()
         {
-            string result = "[Emoticon not found.]";
+            string result = "";
             string fileName;
             if (title.StartsWith('['))
                 fileName = folderPath + "/" + fileEmoticonsSpecial;
@@ -37,7 +37,7 @@ namespace HtmlTransformer
             using (TextReader tr = File.OpenText(fileName))
             {
                 string curLine;
-                while ((curLine = tr.ReadLine().Trim()) != null)
+                while ((curLine = tr.ReadLine()?.Trim()) != null)
                 {
                     if (curLine.Length == 0 || curLine.StartsWith("//"))
                         continue;
@@ -51,11 +51,15 @@ namespace HtmlTransformer
                             if (alts[1] != "-")
                                 result = alts[1];
                             else
-                                result = string.Format("![{0}]({1})", alts[2], alts[3]);
+                                result = String.Format("![{0}]({1})", alts[2], alts[3]);
                         }
                         break;
                     }
                 }
+            }
+            if (result == "")   // Not found in file.
+            {
+                result = String.Format("![{0}]({1})", title, src);
             }
             return result;
         }
