@@ -45,7 +45,7 @@ namespace HtmlTransformer
                 rawDocument.LoadHtml(rawCode);
                 var baseNode = rawDocument.DocumentNode.Element("div");
 
-                if (baseNode.GetAttributeValue("class", "").Contains("WB_cardwrap"))
+                if (baseNode != null && baseNode.GetAttributeValue("class", "").Contains("WB_cardwrap"))
                 {
                     var weiboPost = new WeiboPostParser(baseNode);
                     TextBoxMarkdownCode.Document.SetText(Windows.UI.Text.TextSetOptions.None, weiboPost.GetJekyllCode());
