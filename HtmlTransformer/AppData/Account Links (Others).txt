@@ -3,6 +3,8 @@
 人民网	PeoplesDailyOnline	https://weibo.com/renminwang
 人民日报	PeoplesDaily	https://weibo.com/rmrb
 腾讯视频	TencentVideo	https://weibo.com/ilovevideo
+腾讯视频VIP	TencentVideoVip	https://weibo.com/hollywoodtheatre
+腾讯综艺	TencentEnt	https://weibo.com/remendezongyi
 花椒直播	HuaJiaoLive	https://weibo.com/huajiaozhibo
 熊猫直播	PandaTV	https://weibo.com/PandaTV
 梨视频	PearVideo	https://weibo.com/pearvideo
