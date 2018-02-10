@@ -14,12 +14,13 @@ namespace HtmlTransformer
         public AccountInfo BasicInfo = new AccountInfo();
         public FeedInfo FeedBasicInfo = new FeedInfo();
         public string markdownText;
-        public string GetAccoutLink(string rawName)
+        public Tuple<string, string> GetAccoutNameAndLink(string rawName)
         {
             if (rawName == null || rawName == "")
                 return null;
+
             if (Accounts.OriginalPlan.ContainsKey(rawName))
-                return Accounts.OriginalPlan[rawName].Link;
+                return Tuple.Create(Accounts.OriginalPlan[rawName].DisplayName, Accounts.OriginalPlan[rawName].Link);
             else
             {
                 string fileName = folderPath + "/" + fileOtherAccountLinks;
@@ -33,10 +34,7 @@ namespace HtmlTransformer
                         if (curLine.StartsWith(rawName))
                         {
                             var sects = curLine.Split('\t');
-                            if (sects.Length >= 3)
-                                return sects[2];
-                            else
-                                return "/ERROR/IN/TXT/FILE";
+                            return sects.Length >= 3 ? Tuple.Create(sects[1], sects[2]) : Tuple.Create("ERROR", "/ERROR/IN/TXT/FILE");
                         }
                     }
                 }
@@ -155,8 +153,9 @@ namespace HtmlTransformer
                 accountInfo.Name = accountName;
                 accountInfo.TranslatedName = "Other accounts";
                 accountInfo.Tag = "other-accounts";
-                accountInfo.DisplayName = accountName;
-                accountInfo.Link = GetAccoutLink(accountName);
+                var nameAndLink = GetAccoutNameAndLink(accountName);
+                accountInfo.DisplayName = nameAndLink.Item1;
+                accountInfo.Link = nameAndLink.Item2;
                 if (accountInfo.Link == null)
                 {
                     tempLink = htmlNode.Element("a").GetAttributeValue("href", "/");
