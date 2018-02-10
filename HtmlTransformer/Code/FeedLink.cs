@@ -109,31 +109,49 @@ namespace HtmlTransformer
         {
             // Get icon.
             string selectedIcon = "";
-            string[] iconClassNames = node.Element("i").GetAttributeValue("class", "").Split(' ');
-            foreach (var name in iconClassNames)
+            bool isSpecialEmoticon = node.Element("i") == null ? true : false;  // "[带着微博去旅行]" in the link
+            if (!isSpecialEmoticon)
             {
-                if (specialIcons.ContainsKey(name))
+                string[] iconClassNames = node.Element("i").GetAttributeValue("class", "").Split(' ');
+                foreach (var name in iconClassNames)
                 {
-                    selectedIcon = specialIcons[name];
-                    break;
-                }
-            }
-            // Form link string.
-            if (selectedIcon == "")
-                return "";
-            else
-            {
-                // Get text.
-                string text = "";
-                foreach (var subNode in node.ChildNodes)
-                {
-                    if (subNode.NodeType == HtmlNodeType.Text)
+                    if (specialIcons.ContainsKey(name))
                     {
-                        text = subNode.InnerText;
+                        selectedIcon = specialIcons[name];
                         break;
                     }
                 }
-                return string.Format("[{0} {1}]({2})", selectedIcon, text, node.GetAttributeValue("href", "/"));
+                // Form link string.
+                if (selectedIcon == "")
+                    return "";
+                else
+                {
+                    // Get text.
+                    string text = "";
+                    foreach (var subNode in node.ChildNodes)
+                    {
+                        if (subNode.NodeType == HtmlNodeType.Text)
+                        {
+                            text = subNode.InnerText;
+                            break;
+                        }
+                    }
+                    return string.Format("[{0} {1}]({2})", selectedIcon, text, node.GetAttributeValue("href", "/"));
+                }
+            }
+            // For emoticon in the link, discard the link.
+            else
+            {
+                HtmlNode emoticonNode = node.Element("img");
+                if (emoticonNode == null)
+                    return "";
+                else
+                {
+                    string title = emoticonNode.GetAttributeValue("title", "");
+                    string src = emoticonNode.GetAttributeValue("src", "");
+                    AltEmoticon emoticon = new AltEmoticon(title, src);
+                    return emoticon.Alternate();
+                }
             }
         }
     }
