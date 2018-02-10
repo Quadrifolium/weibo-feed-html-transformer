@@ -2,7 +2,7 @@
 [doge]	-	doge	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif
 [喵喵]	-	doge cat	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif
 [二哈]	-	Husky	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/moren_hashiqi_org.png
-[笑cry]	:joy: laughter	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif
+[笑cry]	:joy:	laughter	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif
 [摊手]	-	shrug	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/pcmoren_tanshou_org.png
 [抱抱]	-	hug	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/pcmoren_baobao_org.png
 [跪了]	-	kneel	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/pcmoren_guile_org.png
@@ -78,10 +78,13 @@
 [蛋糕]	-	cake	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3a/cakev2_org.gif
 [话筒]	-	microphone	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif
 [蜡烛]	-	candle	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif
+[带着微博去旅行]	-	Weibo travel	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ec/eventtravel_org.gif
 [作揖]	-	bow with hand	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif
+[围脖]	-	scarf	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3f/weijin_org.gif
 [微风]	-	breeze	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a5/wind_org.gif
 [太阳]	-	sun	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif
 [月亮]	-	moon	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif
+[鲜花]	-	flower	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/flower_org.gif
 [哆啦A梦吃惊]	-	Doraemon surprise	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif
 [哆啦A梦微笑]	-	Doraemon smile	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/jqmweixiao_org.gif
 [哆啦A梦亲亲]	-	Doraemon kiss	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e0/dora_qinqin_org.png

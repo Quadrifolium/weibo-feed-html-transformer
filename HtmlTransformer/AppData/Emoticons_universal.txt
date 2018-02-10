@@ -17,6 +17,7 @@ ee8497	:fireworks:
 ee849a	:imp:
 ee849b	:ghost:
 ee84bc	:zzz:
+ee858c	:muscle:
 ee88af	:point_down:
 ee8c90	:balloon:
 ee8c92	:tada:
@@ -25,6 +26,8 @@ ee8d8b	:birthday:
 ee9085	:wink:
 ee908c	:mask:
 ee9099	:eyes:
+ee909d	:pray:
+ee909e	:wave:
 ee9188	:santa:
 ee9493	:cn:
 ee94ac	:rabbit:
