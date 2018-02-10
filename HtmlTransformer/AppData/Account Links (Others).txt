@@ -1,4 +1,5 @@
 ﻿// Account links (Other accounts)
+KilaKila	KilaKila	https://weibo.com/u/5990184179
 红豆Live	HongdouLive	https://weibo.com/u/5990184179
 人民网	PeoplesDailyOnline	https://weibo.com/renminwang
 人民日报	PeoplesDaily	https://weibo.com/rmrb
@@ -11,6 +12,7 @@
 炫动卡通卫视频道	ToonmaxTVChannel	https://weibo.com/toonmax
 爱奇艺	iQiyi	https://weibo.com/qiyiguanbo
 音乐风云榜	TopChineseMusic	https://weibo.com/yinyuefengyunbang
+新浪音乐	SinaMusic	https://weibo.com/musichut
 咪咕音乐	MiguMusic	https://weibo.com/10658830
 JVC建伍中国	JVCChinaOfficial	https://weibo.com/everio
 机智的疯小狗	WittyCrazyPup	https://weibo.com/u/5706219726
