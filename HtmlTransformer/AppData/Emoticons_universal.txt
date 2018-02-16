@@ -1,9 +1,12 @@
 ﻿// Emoticons with no title
 // https://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee80b0.png	:cherry_blossom:
 ee8091	:v:
+ee80a2	:heart:
 ee80b0	:cherry_blossom:
+ee80b2	:rose:
 ee80b3	:christmas_tree:
 ee8189	:cloud:
+ee818a	:sunny:
 ee818b	:umbrella:
 ee818c	:crescent_moon:
 ee818e	:angel:
@@ -23,11 +26,14 @@ ee8c90	:balloon:
 ee8c92	:tada:
 ee8d85	:apple:
 ee8d8b	:birthday:
+ee8d8d	:stew:
+ee9082	:smirk:
 ee9085	:wink:
 ee908c	:mask:
 ee9099	:eyes:
 ee909d	:pray:
 ee909e	:wave:
+ee90b5	:bullettrain_side:
 ee9188	:santa:
 ee9493	:cn:
 ee94ac	:rabbit:
