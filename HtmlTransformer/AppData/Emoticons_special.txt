@@ -80,6 +80,8 @@
 [蜡烛]	-	candle	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif
 [带着微博去旅行]	-	Weibo travel	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ec/eventtravel_org.gif
 [作揖]	-	bow with hand	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif
+[偷乐]	-	Langxiaohua chuckle	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fa/lxhtouxiao_org.gif
+[笑哈哈]	-	Langxiaohua laugh	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/lxhwahaha_org.gif
 [围脖]	-	scarf	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3f/weijin_org.gif
 [微风]	-	breeze	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a5/wind_org.gif
 [太阳]	-	sun	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif

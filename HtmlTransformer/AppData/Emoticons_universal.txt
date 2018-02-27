@@ -29,6 +29,7 @@ ee8d8b	:birthday:
 ee8d8d	:stew:
 ee9082	:smirk:
 ee9085	:wink:
+ee9089	:stuck_out_tongue_closed_eyes:
 ee908c	:mask:
 ee9099	:eyes:
 ee909d	:pray:
