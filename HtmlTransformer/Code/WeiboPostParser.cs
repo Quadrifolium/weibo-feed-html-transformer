@@ -154,10 +154,14 @@ namespace HtmlTransformer
                 accountInfo.TranslatedName = "Other accounts";
                 accountInfo.Tag = "other-accounts";
                 var nameAndLink = GetAccoutNameAndLink(accountName);
-                accountInfo.DisplayName = nameAndLink.Item1;
-                accountInfo.Link = nameAndLink.Item2;
-                if (accountInfo.Link == null)
+                if (nameAndLink != null)
                 {
+                    accountInfo.DisplayName = nameAndLink.Item1;
+                    accountInfo.Link = nameAndLink.Item2;
+                }
+                else
+                {
+                    accountInfo.DisplayName = accountName;
                     tempLink = htmlNode.Element("a").GetAttributeValue("href", "/");
                     tempPos = tempLink.IndexOf('?');
                     if (tempPos != -1)
