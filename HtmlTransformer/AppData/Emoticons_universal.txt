@@ -5,6 +5,7 @@ ee80a2	:heart:
 ee80b0	:cherry_blossom:
 ee80b2	:rose:
 ee80b3	:christmas_tree:
+ee8186	:cake:
 ee8189	:cloud:
 ee818a	:sunny:
 ee818b	:umbrella:
