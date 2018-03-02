@@ -13,6 +13,7 @@ ee818c	:crescent_moon:
 ee818e	:angel:
 ee818f	:cat:
 ee8192	:dog:
+ee8197	:smiley:
 ee819a	:poop:
 ee8487	:scream:
 ee848b	:pig:
@@ -37,6 +38,7 @@ ee909d	:pray:
 ee909e	:wave:
 ee90b5	:bullettrain_side:
 ee9188	:santa:
+ee918a	:city_sunrise:
 ee9493	:cn:
 ee94ac	:rabbit:
 ee94af	:boar:
