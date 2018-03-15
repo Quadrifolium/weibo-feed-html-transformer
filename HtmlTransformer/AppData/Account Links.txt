@@ -17,4 +17,13 @@ YXZHty	孙亦航	SUN Yi-hang	sun-yi-hang	YiAnMusicClub-SunYiHang	https://weibo.c
 易安音乐社-叶筱傲	叶筱傲	YE Xiao-ao	ye-xiao-ao	YiAnMusicClub-YeXiaoAo	https://weibo.com/u/6340485168
 易安音乐社-博言	博言	BO Yan	bo-yan	YiAnMusicClub-BoYan	https://weibo.com/u/6346303373
 易安音乐社-博影	博影	BO Ying	bo-ying	YiAnMusicClub-BoYing	https://weibo.com/u/6340488840
+易安中学-闫钶	闫钶	YAN Ke	yan-ke	YiAnMiddleSchool-YanKe	https://weibo.com/u/6505423304
+易安中学-方加成	方加成	FANG Jia-cheng	fang-jia-cheng	YiAnMiddleSchool-FangJiaCheng	https://weibo.com/u/6505661195
+易安中学-莫文轩	莫文轩	MO Wen-xuan	mo-wen-xuan	YiAnMiddleSchool-MoWenXuan	https://weibo.com/u/6505418468
+易安中学-申义晟	申义晟	SHEN Yi-sheng	shen-yi-sheng	YiAnMiddleSchool-ShenYiSheng	https://weibo.com/u/6507103706
+易安中学-杨阳洋	杨阳洋	YANG Yang-yang	yang-yang-yang	YiAnMiddleSchool-YangYangYang	https://weibo.com/u/6505664746
+易安中学-文溢	文溢	WEN Yi	wen-yi	YiAnMiddleSchool-WenYi	https://weibo.com/u/6507106244
+易安中学-夏千喆	夏千喆	XIA Qian-zhe	xia-qian-zhe	YiAnMiddleSchool-XiaQianZhe	https://weibo.com/u/6505420082
+易安中学-傅韵哲	傅韵哲	FU Yun-zhe	fu-yun-zhe	YiAnMiddleSchool-FuYunZhe	https://weibo.com/u/6505655408
+易安中学-余沐阳	余沐阳	YU Mu-yang	yu-mu-yang	YiAnMiddleSchool-YuMuYang	https://weibo.com/u/6505651747
 哈维森蛋黄酱	黄锐	HUANG Rui	huang-rui	Havison	https://weibo.com/havison
