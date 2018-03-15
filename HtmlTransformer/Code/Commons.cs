@@ -46,6 +46,15 @@ namespace HtmlTransformer
                 { "易安音乐社-叶筱傲", new AccountInfo("叶筱傲", "YE Xiao-ao", "ye-xiao-ao", "YiAnMusicClub-YeXiaoAo", "https://weibo.com/u/6340485168") },
                 { "易安音乐社-博言", new AccountInfo("博言", "BO Yan", "bo-yan", "YiAnMusicClub-BoYan", "https://weibo.com/u/6346303373") },
                 { "易安音乐社-博影", new AccountInfo("博影", "BO Ying", "bo-ying", "YiAnMusicClub-BoYing", "https://weibo.com/u/6340488840") },
+                { "易安中学-闫钶", new AccountInfo("闫钶", "YAN Ke", "yan-ke", "YiAnMiddleSchool-YanKe", "https://weibo.com/u/6505423304") },
+                { "易安中学-方加成", new AccountInfo("方加成", "FANG Jia-cheng", "fang-jia-cheng", "YiAnMiddleSchool-FangJiaCheng", "https://weibo.com/u/6505661195") },
+                { "易安中学-莫文轩", new AccountInfo("莫文轩", "MO Wen-xuan", "mo-wen-xuan", "YiAnMiddleSchool-MoWenXuan", "https://weibo.com/u/6505418468") },
+                { "易安中学-申义晟", new AccountInfo("申义晟", "SHEN Yi-sheng", "shen-yi-sheng", "YiAnMiddleSchool-ShenYiSheng", "https://weibo.com/u/6507103706") },
+                { "易安中学-杨阳洋", new AccountInfo("杨阳洋", "YANG Yang-yang", "yang-yang-yang", "YiAnMiddleSchool-YangYangYang", "https://weibo.com/u/6505664746") },
+                { "易安中学-文溢", new AccountInfo("文溢", "WEN Yi", "wen-yi", "YiAnMiddleSchool-WenYi", "https://weibo.com/u/6507106244") },
+                { "易安中学-夏千喆", new AccountInfo("夏千喆", "XIA Qian-zhe", "xia-qian-zhe", "YiAnMiddleSchool-XiaQianZhe", "https://weibo.com/u/6505420082") },
+                { "易安中学-傅韵哲", new AccountInfo("傅韵哲", "FU Yun-zhe", "fu-yun-zhe", "YiAnMiddleSchool-FuYunZhe", "https://weibo.com/u/6505655408") },
+                { "易安中学-余沐阳", new AccountInfo("余沐阳", "YU Mu-yang", "yu-mu-yang", "YiAnMiddleSchool-YuMuYang", "https://weibo.com/u/6505651747") },
                 { "哈维森蛋黄酱", new AccountInfo("黄锐", "HUANG Rui", "huang-rui", "Havison", "https://weibo.com/havison") }
             };
             public static Dictionary<string, AccountInfo> OtherAccounts = new Dictionary<string, AccountInfo>() { };
