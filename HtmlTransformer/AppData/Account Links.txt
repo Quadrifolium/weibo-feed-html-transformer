@@ -11,12 +11,19 @@
 易安音乐社-方翔锐	方翔锐	FANG Xiang-rui	fang-xiang-rui	YiAnMusicClub-FangXiangRui	https://weibo.com/u/6117583008
 YXZHty	孙亦航	SUN Yi-hang	sun-yi-hang	YiAnMusicClub-SunYiHang	https://weibo.com/u/2565158051
 易安音乐社-夏天一	夏天一	XIA Tian-yi	xia-tian-yi	YiAnMusicClub-XiaTianYi	https://weibo.com/6286030291
+易安中学-夏天一	XIA Tian-yi	xia-tian-yi	YiAnMiddleSchool-XiaTianYi	https://weibo.com/6286030291
 易安音乐社-林嘉浩	林嘉浩	LIN Jia-hao	lin-jia-hao	YiAnMusicClub-LinJiaHao	https://weibo.com/6210352257
+易安中学--林嘉浩	林嘉浩	LIN Jia-hao	lin-jia-hao	YiAnMiddleSchool-LinJiaHao	https://weibo.com/6210352257
 易安音乐社-恩皓	恩皓	EN Hao	en-hao	YiAnMusicClub-EnHao	https://weibo.com/u/6346318257
+易安中学-恩皓	恩皓	EN Hao	en-hao	YiAnMiddleSchool-EnHao	https://weibo.com/u/6346318257
 易安音乐社-殷乐	殷乐	YIN Yue	yin-yue	YiAnMusicClub-YinYue	https://weibo.com/u/6347723033
+易安中学-殷乐	殷乐	YIN Yue	yin-yue	YiAnMiddleSchool-YinYue	https://weibo.com/u/6347723033
 易安音乐社-叶筱傲	叶筱傲	YE Xiao-ao	ye-xiao-ao	YiAnMusicClub-YeXiaoAo	https://weibo.com/u/6340485168
+易安中学-叶筱傲	叶筱傲	YE Xiao-ao	ye-xiao-ao	YiAnMiddleSchool-YeXiaoAo	https://weibo.com/u/6340485168
 易安音乐社-博言	博言	BO Yan	bo-yan	YiAnMusicClub-BoYan	https://weibo.com/u/6346303373
+易安中学-博言	博言	BO Yan	bo-yan	YiAnMiddleSchool-BoYan	https://weibo.com/u/6346303373
 易安音乐社-博影	博影	BO Ying	bo-ying	YiAnMusicClub-BoYing	https://weibo.com/u/6340488840
+易安中学-博影	博影	BO Ying	bo-ying	YiAnMiddleSchool-BoYing	https://weibo.com/u/6340488840
 易安中学-闫钶	闫钶	YAN Ke	yan-ke	YiAnMiddleSchool-YanKe	https://weibo.com/u/6505423304
 易安中学-方加成	方加成	FANG Jia-cheng	fang-jia-cheng	YiAnMiddleSchool-FangJiaCheng	https://weibo.com/u/6505661195
 易安中学-莫文轩	莫文轩	MO Wen-xuan	mo-wen-xuan	YiAnMiddleSchool-MoWenXuan	https://weibo.com/u/6505418468
