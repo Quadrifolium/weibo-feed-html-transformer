@@ -27,6 +27,7 @@ ee84bc	:zzz:
 ee8582	:loudspeaker:
 ee858c	:muscle:
 ee88af	:point_down:
+ee88b1	:point_right:
 ee8992	:warning:
 ee8c8d	:congratulations:
 ee8c90	:balloon:
