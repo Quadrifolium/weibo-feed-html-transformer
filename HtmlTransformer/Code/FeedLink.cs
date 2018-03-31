@@ -30,7 +30,7 @@ namespace HtmlTransformer
             return result;
         }
 
-        // Get link from common account data or Link.txt.
+        // Get link from common account data or stored text file.
         string GetLink()
         {
             string name = node.InnerText;
@@ -59,9 +59,9 @@ namespace HtmlTransformer
                     {
                         if (curLine.Length == 0 || curLine.StartsWith("//"))
                             continue;
-                        if (curLine.StartsWith(pureTitle))
+                        var sects = curLine.Split('\t');
+                        if (sects.Length > 0 && sects[0].ToLower() == pureTitle.ToLower())  // case insensitive
                         {
-                            var sects = curLine.Split('\t');
                             if (sects.Length >= 3)
                             {
                                 name = (withAtSign ? "@" : "") + sects[1];
