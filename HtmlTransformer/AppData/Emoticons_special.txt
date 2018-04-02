@@ -85,6 +85,7 @@
 [兔子]	-	rabbit	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/rabbit_org.gif
 [围脖]	-	scarf	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3f/weijin_org.gif
 [飞机]	-	airplane	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/travel_org.gif
+[照相机]	-	camera	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/33/camera_org.gif
 [微风]	-	breeze	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a5/wind_org.gif
 [太阳]	-	sun	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif
 [月亮]	-	moon	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/moon.gif
