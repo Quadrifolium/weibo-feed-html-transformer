@@ -34,6 +34,7 @@
 #易安音乐社-孙亦航#	#YiAnMusicClub-SunYiHang	https://weibo.com/p/100808d42d2c0474a7ee16807e161ccf22af99
 #电影快把我哥带走#	#Film_TakeMyBrotherAway	https://weibo.com/p/1008086eaa51d65560d11df15c2a37c3dc64f7
 #快把我哥带走#	#TakeMyBrotherAway	https://weibo.com/p/10080850f559dfa8a4ce4b7eb18bd3cf3dcb29/super_index
+#逗你玩#	#Bazinga	https://weibo.com/p/100808c20d6921ec0f51ced9a848fab8ab08ed
 #中国很赞#	#ChinasAmazing	https://weibo.com/p/1008084a51192ca8c33280a5907818c997d03c
 #更好的我#	#BetterMe	https://weibo.com/p/100808a75ed572b15a196064ccdc97bf71f851
 #年度百问#	#HundredQuestionsOfTheYear	https://weibo.com/p/100808dac57b11f47b8539f151f07a92afcf48
