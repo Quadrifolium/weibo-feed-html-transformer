@@ -1,5 +1,6 @@
 ﻿// Emoticons with no title
 // https://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee80b0.png	:cherry_blossom:
+ee8090	:fist:
 ee8091	:v:
 ee809d	:airplane:
 ee80a2	:heart:
@@ -7,6 +8,7 @@ ee80b0	:cherry_blossom:
 ee80b2	:rose:
 ee80b3	:christmas_tree:
 ee80be	:musical_note:
+ee8185	:coffee:
 ee8186	:cake:
 ee8189	:cloud:
 ee818a	:sunny:
@@ -34,6 +36,7 @@ ee8992	:warning:
 ee8c8d	:congratulations:
 ee8c90	:balloon:
 ee8c92	:tada:
+ee8cbe	:rice:
 ee8d85	:apple:
 ee8d86	:tangerine:
 ee8d8b	:birthday:
