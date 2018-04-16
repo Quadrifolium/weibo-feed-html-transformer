@@ -34,7 +34,7 @@ namespace HtmlTransformer
                 { "易安中学新媒体中心", new AccountInfo("易安中学新媒体中心", "Yi An Multimedia Centre", "yi-an-multimedia-centre", "YiAnMultimediaCentre", "https://weibo.com/u/6196825252") },
                 { "易安音乐社-何洛洛", new AccountInfo("何洛洛", "HE Luo-luo", "he-luo-luo", "YiAnMusicClub-HeLuoLuo", "https://weibo.com/u/6117570574") },
                 { "易安音乐社-林墨", new AccountInfo("林墨", "LIN Mo", "lin-mo", "YiAnMusicClub-LinMo", "https://weibo.com/u/6108312042") },
-                { "易安音乐社-孙亦航", new AccountInfo("孙亦航", "SUN Yi-hang", "sun-yi-hang", "YiAnMusicClub-SunYiHang", "https://weibo.com/u/6108316220") },
+                { "易安音乐社-孙亦航", new AccountInfo("孙亦航", "SUN Yi-hang", "sun-yi-hang", "YiAnMusicClub-SunYiHang", "https://weibo.com/u/2565158051") },
                 { "易安音乐社-池忆", new AccountInfo("池忆", "CHI Yi", "chi-yi", "YiAnMusicClub-ChiYi", "https://weibo.com/u/6117581836") },
                 { "易安音乐社-展逸文", new AccountInfo("展逸文", "ZHAN Yi-wen", "zhan-yi-wen", "YiAnMusicClub-ZhanYiWen", "https://weibo.com/u/6108090526") },
                 { "易安音乐社-方翔锐", new AccountInfo("方翔锐", "FANG Xiang-rui", "fang-xiang-rui", "YiAnMusicClub-FangXiangRui", "https://weibo.com/u/6117583008") },
