@@ -6,6 +6,7 @@ KilaKila	KilaKila	https://weibo.com/u/5990184179
 腾讯视频	TencentVideo	https://weibo.com/ilovevideo
 腾讯视频VIP	TencentVideoVip	https://weibo.com/hollywoodtheatre
 腾讯综艺	TencentEnt	https://weibo.com/remendezongyi
+芒果TV	MangoTV	https://weibo.com/hunantv
 花椒直播	HuaJiaoLive	https://weibo.com/huajiaozhibo
 熊猫直播	PandaTV	https://weibo.com/PandaTV
 梨视频	PearVideo	https://weibo.com/pearvideo
