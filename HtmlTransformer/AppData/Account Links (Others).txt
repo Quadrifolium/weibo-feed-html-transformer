@@ -15,6 +15,7 @@ KilaKila	KilaKila	https://weibo.com/u/5990184179
 爱奇艺综艺	iQiyiEnt	https://weibo.com/qiyizongyi
 音乐风云榜	TopChineseMusic	https://weibo.com/yinyuefengyunbang
 新浪音乐	SinaMusic	https://weibo.com/musichut
+新浪娱乐	SinaEnt	https://weibo.com/entpaparazzi
 咪咕音乐	MiguMusic	https://weibo.com/10658830
 JVC建伍中国	JVCChinaOfficial	https://weibo.com/everio
 电影快把我哥带走	Film_TakeMyBrotherAway	https://weibo.com/u/6424852512
