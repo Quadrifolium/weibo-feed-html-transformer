@@ -29,6 +29,7 @@ ee849b	:ghost:
 ee84bc	:zzz:
 ee8582	:loudspeaker:
 ee858c	:muscle:
+ee88a1	:six:
 ee88af	:point_down:
 ee88b1	:point_right:
 ee88b3	:arrow_down:
@@ -50,6 +51,7 @@ ee9092	:joy:
 ee9099	:eyes:
 ee909d	:pray:
 ee909e	:wave:
+ee909f	:clap:
 ee90a0	:ok_hand:
 ee90b5	:bullettrain_side:
 ee9188	:santa:
