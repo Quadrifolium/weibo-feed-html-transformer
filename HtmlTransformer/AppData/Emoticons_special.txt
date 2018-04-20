@@ -19,6 +19,7 @@
 [酷]	-	cool	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8a/pcmoren_cool2017_org.png
 [嘻嘻]	-	pleased	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif
 [哈哈]	-	haha	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif
+[色]	:heart_eyes:	heart eyes	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/2018new_huaxin_org.png
 [可爱]	-	cute	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif
 [可怜]	-	pitiful	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/kl_org.gif
 [挖鼻]	-	pick nose	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif
