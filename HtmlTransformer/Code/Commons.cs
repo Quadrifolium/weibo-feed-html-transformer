@@ -14,7 +14,7 @@ namespace HtmlTransformer
         //const string folderPath = @"GitHub\Quadrifolium\originalplan\AppData";
         public const string folderPath = "AppData";
         public const string fileOtherAccountLinks = "Account Links (Others).txt";
-        public const string fileEmoticonsSpecial = "Emoticons_special.txt";
+        public const string fileEmoticonsSpecial = "Emoticons_special_2018.txt";
         public const string fileEmoticonsUniversal = "Emoticons_universal.txt";
         public const string fileTopicLinks = "Topic Links.txt";
         //public static DateTime fileOtherAccountLinksModifiedDate = new DateTime(1970, 1, 1, 0, 0, 0);

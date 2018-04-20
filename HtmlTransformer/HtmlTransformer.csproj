@@ -117,7 +117,7 @@
   <ItemGroup>
     <Content Include="AppData\Account Links %28Others%29.txt" />
     <Content Include="AppData\Account Links.txt" />
-    <Content Include="AppData\Emoticons_special.txt" />
+    <Content Include="AppData\Emoticons_special_2018.txt" />
     <Content Include="AppData\Emoticons_universal.txt" />
     <Content Include="AppData\Topic Links.txt" />
     <Content Include="Assets\LargeTile.scale-100.png" />

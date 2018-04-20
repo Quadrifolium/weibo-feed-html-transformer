@@ -44,14 +44,13 @@ namespace HtmlTransformer
                     if (curLine.StartsWith(title))  // emoticon found
                     {
                         var alts = curLine.Split('\t');
-                        if (alts.Length < 4)
+                        // Stop using gemoji tags for Weibo-specialised emoticons.
+                        if (alts.Length < 3)
                             result = alts[1];
                         else
                         {
-                            if (alts[1] != "-")
-                                result = alts[1];
-                            else
-                                result = String.Format("![{0}]({1})", alts[2], alts[3]);
+                            // 2018 version of emoticons on Weibo is 36x36, which have to be resized using {.:class_name} in kramdown.
+                            result = String.Format("![{0}]({1}){{:.emoticon}}", alts[1], alts[2]);
                         }
                         break;
                     }
@@ -59,7 +58,7 @@ namespace HtmlTransformer
             }
             if (result == "")   // Not found in file.
             {
-                result = String.Format("![{0}]({1})", title, src);
+                result = String.Format("![{0}]({1}){{:.emoticon}}", title, src);
             }
             return result;
         }
