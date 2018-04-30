@@ -5,6 +5,8 @@
 #KilaKila#	#KilaKila	https://weibo.com/p/100808444c397a1ebcbfce76c650c277055e10
 #少年成长计划#	#GrowthPlan	https://weibo.com/p/100808fe7264e4339c41df171df3260846e152
 #易安少年成长计划#	#YiAnGrowthPlan	https://weibo.com/p/10080857c325a925dae18b150ad4d5a41b7a48
+#易安少年成长计划之训练日常日常#	#YiAnGrowthPlan_DailyTraining	https://weibo.com/p/10080801f408b298e3c7f9aa0a99a1e404044b
+#夏天好热做梦要趁早#	#DreamEarlyInHotSummer	https://weibo.com/p/1008087f2adb78e0df137f468cbafdcbd0ffcf
 #我们的练习室#	#OurTrainingRoom	https://weibo.com/p/100808980da3b9682ac1e47ba4bdf6540b7a03
 #易安少年的日常#	#DailyLifeOfYiAnBoys	https://weibo.com/p/100808bf13d14673176f6dffac5481debd621e
 #罢工吧!画手#	#GoOnStrike!Painters	https://weibo.com/p/100808ad2ad3cf7e06a459fb351ed63af5b2bb
@@ -25,6 +27,7 @@
 #音乐风云榜#	#TopChineseMusic	https://weibo.com/p/100808e90912b8fcf6679c96964e51fe231fb8
 #亚洲动漫榜#	#AsiaMangaChart	https://weibo.com/p/10080853749b797703d2d251a740d8723d47cd/super_index
 #爱奇艺粉丝嘉年华#	#iQiyiFansCarnival	https://weibo.com/p/100808ed8d3bc08a76c8eab439a132cd60b683
+#2018爱奇艺粉丝嘉年华#	#iQiyiFansCarnival2018	https://weibo.com/p/100808818806b72be98a723a1926a113bfec33
 #爱奇艺fun盛典#	#iQiyiFunFest	https://weibo.com/p/100808511b95108de572a0bfc6b0b5b31d7eb2
 #第十七届音乐风云榜年度盛典#	#17thAnnualFestivalOfTopChineseMusic	https://weibo.com/p/100808cea4fede0f31bbf330dba38da8bbbefc
 #亚洲新歌榜#	#AsiaNewMusicChart	https://weibo.com/p/1008085d82c934b97e5cef62b0ed6ab7adc813
