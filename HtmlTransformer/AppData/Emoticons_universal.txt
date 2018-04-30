@@ -1,5 +1,6 @@
 ﻿// Emoticons with no title
 // https://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee80b0.png	:cherry_blossom:
+ee8088	:camera:
 ee8090	:fist:
 ee8091	:v:
 ee809d	:airplane:
@@ -23,13 +24,22 @@ ee8487	:scream:
 ee8488	:sweat:
 ee848b	:pig:
 ee8492	:gift:
+ee8495	:running:
 ee8497	:fireworks:
 ee849a	:imp:
 ee849b	:ghost:
 ee84bc	:zzz:
 ee8582	:loudspeaker:
 ee858c	:muscle:
+ee889c	:one:
+ee889d	:two:
+ee889e	:three:
+ee889f	:five:
 ee88a1	:six:
+ee88a2	:seven:
+ee88a3	:eight:
+ee88a4	:nine:
+ee88a5	:zero:
 ee88af	:point_down:
 ee88b1	:point_right:
 ee88b3	:arrow_down:
