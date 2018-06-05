@@ -76,6 +76,7 @@
 [作揖]	bow with hand	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e7/2018new_zuoyi_org.png
 [心]	heart	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8a/2018new_xin_org.png
 [伤心]	heart broken	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/2018new_xinsui_org.png
+[绿丝带]	green ribbon	http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2018new_lvsidai_org.png
 [浪]	Sina	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/46/2018new_xinlang_org.png
 [浮云]	cloud	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/61/2018new_yunduo_org.png
 [话筒]	microphone	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/48/2018new_huatong_org.png
