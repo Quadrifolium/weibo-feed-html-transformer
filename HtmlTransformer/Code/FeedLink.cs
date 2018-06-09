@@ -83,7 +83,7 @@ namespace HtmlTransformer
                     int pos = href.IndexOf('?');
                     if (pos != -1)
                         href = href.Substring(0, pos);
-                    if (!href.StartsWith("//"))
+                    if (!href.StartsWith("//") && !href.StartsWith("http://") && !href.StartsWith("https://"))
                         href = baseUrl + href;
                 }
             }
@@ -136,6 +136,17 @@ namespace HtmlTransformer
                             break;
                         }
                     }
+                    // Translate commonly used text.
+                    if (text.Contains("秒拍视频"))
+                    {
+                        text = "Flash Show Video";
+                    }
+                    else if (text.Contains("微博故事"))
+                    {
+                        selectedIcon = specialIcons["ficon_cd_video"];
+                        text = "Weibo Story";
+                    }
+
                     return string.Format("[{0} {1}]({2})", selectedIcon, text, node.GetAttributeValue("href", "/"));
                 }
             }
