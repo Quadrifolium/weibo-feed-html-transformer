@@ -22,6 +22,16 @@ namespace HtmlTransformer
             {
                 if (node.NodeType == HtmlNodeType.Element)
                 {
+                    // If this is Weibo Story.
+                    if (IsNodeWithClass(node, "li_story"))
+                    {
+                        var WB_story_box = SelectChildNodeByClass(node, "WB_story_box");
+                        var prevImg = WB_story_box.Element("img");
+                        string src = prevImg.GetAttributeValue("src", "/");
+                        picsList.Add(new KeyValuePair<string, string>(src, src));
+                        break;
+                    }
+
                     var img = node.Element("img");
                     var WB_gif_box = SelectChildNodeByClass(node, "WB_gif_box");
                     if (img == null && WB_gif_box == null)
