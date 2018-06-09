@@ -14,6 +14,7 @@
 [右哼哼]	right snort	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c1/2018new_youhengheng_org.png
 [左哼哼]	left snort	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/43/2018new_zuohengheng_org.png
 [怒骂]	scold	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/87/2018new_zhouma_org.png
+[顶]	knock on head	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ae/2018new_ding_org.png
 [微笑]	smile	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e3/2018new_weixioa02_org.png
 [偷笑]	titter	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/2018new_touxiao_org.png
 [舔屏]	lick	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3e/2018new_tianping_org.png
@@ -76,8 +77,6 @@
 [作揖]	bow with hand	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e7/2018new_zuoyi_org.png
 [心]	heart	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8a/2018new_xin_org.png
 [伤心]	heart broken	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/2018new_xinsui_org.png
-[绿丝带]	green ribbon	http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2018new_lvsidai_org.png
-[浪]	Sina	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/46/2018new_xinlang_org.png
 [浮云]	cloud	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/61/2018new_yunduo_org.png
 [话筒]	microphone	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/48/2018new_huatong_org.png
 [微风]	breeze	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c7/2018new_weifeng_org.png
@@ -89,12 +88,15 @@
 [月亮]	moon	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d5/2018new_yueliang_org.png
 [蛋糕]	cake	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f9/2018new_dangao_org.png
 [音乐]	musical note	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1f/2018new_yinyue_org.png
+[猪头]	pig	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1c/2018new_zhutou_org.png
 [鲜花]	flower	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d4/2018new_xianhua_org.png
 [太阳]	sun	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cd/2018new_taiyang_org.png
 [下雨]	rain	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7e/2018new_yu_org.png
 [兔子]	rabbit	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c6/2018new_tuzi_org.png
 [照相机]	camera	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/78/2018new_xiangji_org.png
 [熊猫]	panda	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/aa/2018new_xiongmao_org.png
+[绿丝带]	green ribbon	http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2018new_lvsidai_org.png
+[浪]	Sina	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/46/2018new_xinlang_org.png
 [带着微博去旅行]	Weibo travel	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ec/eventtravel_org.gif
 [偷乐]	Langxiaohua chuckle	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fa/lxhtouxiao_org.gif
 [笑哈哈]	Langxiaohua laugh	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/lxhwahaha_org.gif
