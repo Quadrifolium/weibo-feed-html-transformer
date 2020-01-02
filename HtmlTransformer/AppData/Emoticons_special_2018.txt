@@ -1,4 +1,5 @@
 ﻿// Emoticons with title
+[中国赞]	[China-style thumb-up]	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/2018new_zhongguozan_org.png
 [doge]	doge	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a1/2018new_doge02_org.png
 [喵喵]	doge cat	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7b/2018new_miaomiao_org.png
 [二哈]	Husky	https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/22/2018new_erha_org.png
